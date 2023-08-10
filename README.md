@@ -8,3 +8,8 @@
  U ----> UPDATE // PUT REQUEST
  D ----> DELETE // DELETE REQUEST
  For testing this API used Postman or Thunderclient
+
+
+
+run command in terminal----->
+npm i express dotenv express mongoose
