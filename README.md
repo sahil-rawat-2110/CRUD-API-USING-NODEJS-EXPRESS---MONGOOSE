@@ -12,4 +12,4 @@
 
 
 run command in terminal----->
-npm i express dotenv express mongoose
+npm i cors dotenv express mongoose
